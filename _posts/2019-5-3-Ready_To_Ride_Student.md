@@ -49,4 +49,4 @@ o	Push Turn
 •	Get feedback
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![BSUPA LOGO]({{ site.baseurl }}/images/BSUPA.png)
