@@ -3,7 +3,7 @@ layout: post
 title: Ready to Ride
 ---
 
-## Land Intro
+# Land Intro
 - Safety brief
 - Kit Intro
 - Weather / Tide / Current limits
@@ -17,7 +17,8 @@ title: Ready to Ride
 - Basic short paddle stroke
 - Push Turn	Water Demo
 
-## Instructor demo
+# Water Based
+## Instructor demo
 - 3 key stages (prone, kneel, standing)
 - Self Rescue
 - Falling techniques
@@ -41,7 +42,7 @@ title: Ready to Ride
 - Tighten up turns
 
 ## Test paddle skills
--    Circle of trust
+-  Circle of trust
 
 ## Finish
 - Issue certificates
